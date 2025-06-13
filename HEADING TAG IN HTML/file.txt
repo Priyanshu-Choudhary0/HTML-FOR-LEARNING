@@ -1,0 +1,13 @@
+HEADING TAG IN HTML - 
+
+DEFINE HEADING IN DOCUMENTS
+RANGE FROM <h!> TO <h6> 
+
+HELPS IN STRUCTURING CONTENT
+
+<h1>	Main heading (most important)
+<h2>	Subheading
+<h3>	Sub-subheading
+<h4>	Further down
+<h5>	Minor heading
+<h6>	Least important heading
