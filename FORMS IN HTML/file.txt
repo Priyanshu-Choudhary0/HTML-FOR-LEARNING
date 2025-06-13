@@ -1,0 +1,9 @@
+FORMS IN HTML- 
+
+AN HTML FORM IS USED TO COLLECT USER INPUT AND SEND DATA TO A SERVER FOR PROCESSING [E.G. LOGIN , REGISTRATION , SEARCH , CONTACT]
+
+<form action="submit" method="POST">
+ <label for="name" >NAME</label>
+ <input type="TypeOfInput" is="NameOfId" name="username" required>
+ <button type="submit">SUBMIT</button>
+</form>
