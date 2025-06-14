@@ -1,0 +1,5 @@
+IFRAME TAG IN HTML -
+
+THE <iframe>YAG IN USED TO EMBED ANOTHER HTML PAGE OR EXTERNAL CONTENT [LIKE A WEBSITE , VIDEO , MAP ETC] INSIDE YOUR CURRENT WEBPAGE . 
+
+<iframe src="https://example.com" width=" " height=" " title="EXAMLE IFRAME"></iframe>
