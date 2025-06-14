@@ -1,0 +1,16 @@
+HTML ATTRIBUTES -
+
+ATTRIBUTES IN HTML PROVUDE EXTRA INFORMATION ABOUT ELEMENTS . THEY ARE ALWAYS ADDED INSIDE THE OPENING TAG AND USUALLY COME IN name = "value" FORMAT .
+
+<tagname attribute="value">CONTENT</tagname>
+
+EXAMPLE :
+<a href="https://example.com">VISITS</a>
+
+href is the attributename 
+"https://example.com" is the attribute value
+
+-> BOOLEAN ATTRIBUTES-
+SOME ATTRIBUTES CAN BE WRITTEN WITHOUT VALUE [ BUT CAN ALSO BE WRITTEN AS attribute = "attribute ] ;
+<input type="checkbox" checked>
+<input type="checkbox" checked="checked">
