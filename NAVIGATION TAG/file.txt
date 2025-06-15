@@ -1,0 +1,8 @@
+NAVIGATION TAG IN HTML - 
+
+PURPOSE : ENCLOSES NAVIGATION LINKS OR MENUS USUALLY CONTAINS LISTS <ul> , <ol> OF LINKS <a>
+
+<nav>
+ <a href=" " ></a>
+ <a href=" " ></a>
+</nav>
