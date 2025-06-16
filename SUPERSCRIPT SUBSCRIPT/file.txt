@@ -1,0 +1,11 @@
+SUPERSCRIPT TAG -
+
+<sup>
+EXAMPLE - 100<sup>O</sup>C
+
+
+
+SUBSCRIPT TAG - 
+
+<sub>
+EXAMPLE - CO<sub>2</sub>
